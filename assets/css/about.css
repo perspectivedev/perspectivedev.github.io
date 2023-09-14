@@ -37,33 +37,6 @@
 
 @media only screen and (max-width: 2000px){
     /******************************************************* toggle dark/light mode *******************************************************/
-/* body.dark-mode {
-    background-color:  var(--bg-clr-1);
-    color: var(--bg-clr-2);
-
-    .about-header {
-        border-bottom: .110rem solid var(--bg-clr-2);
-    }
-
-    .btn-toggle-dark {
-        background: var(--bg-clr-1);
-        color: var(--bg-clr-2);
-    }
-}
-
-    body.light-mode {
-        background-color: var(--bg-clr-2);
-        color: var(--bg-clr-1);
-
-        .about-header {
-            border-bottom: .110rem solid var(--bg-clr-1);
-        }
-
-        .btn-toggle-dark {
-        background: var(--bg-clr-2);
-        color: var(--bg-clr-1);
-        }
-    } */
 
     .about-header {
         border-bottom: .110rem solid rgba(0, 0, 0, 0.7);
