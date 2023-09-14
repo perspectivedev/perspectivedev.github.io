@@ -241,7 +241,7 @@
 }
 
 /******************************************************* mobile *******************************************************/
-@media  only screen and (max-width: 460px) {
+@media  only screen and (max-width: 414px) {
 
     body.dark-mode {
         background-color:  var(--bg-clr-1);
