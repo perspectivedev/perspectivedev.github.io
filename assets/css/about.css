@@ -319,6 +319,13 @@
     
         }
 
+
+        .about-btn-dark-mode {
+            position: absolute;
+            top: 20%;
+            left: 2.5%;
+        }
+
     .intro-section {
         display: flex;
         flex-direction: column;
