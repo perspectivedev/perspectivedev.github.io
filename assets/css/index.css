@@ -129,6 +129,7 @@ nav > ul li a {
     background: url("../images/image-2.jpg") 15% 80% no-repeat ;
     margin: 0 auto;
     padding: 20rem;
+    box-sizing: border-box;
 }
 
 
