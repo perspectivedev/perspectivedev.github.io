@@ -89,7 +89,7 @@
     .btn-dark-mode {
         position: absolute;
         top: 20%;
-        left: 1.5%;
+        left: 10%;
         background: var(--primary-clr-1);
         color: var(--accent-clr-1);
         border-radius: 8px;
