@@ -298,7 +298,7 @@ nav > ul li a {
         color: var(--bg-clr-2);
 
         .index-header,
-        .project-heade,
+        .project-header,
         .resume-header,
         .about-header {
 
@@ -370,7 +370,7 @@ nav > ul li a {
 .btn-dark-mode {
     position: absolute;
     top: 20%;
-    left: 5%;
+    left: 7%;
 }
 
 .index-header {
