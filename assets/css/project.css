@@ -255,6 +255,7 @@ padding: 0 .2rem;
     perspective: 700px;
 }
 
+
 .chat-img {
     width: 90%;
     height: 90%;
@@ -309,7 +310,7 @@ padding: 0 .2rem;
 }
 
 /******************************************************* mobile *******************************************************/
-@media  only screen and (max-width: 400px) {
+@media  only screen and (max-width: 460px) {
 
     body.dark-mode {
         background-color:  var(--bg-clr-1);
