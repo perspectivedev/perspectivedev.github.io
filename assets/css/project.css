@@ -27,7 +27,7 @@
     --ff-Unna: Unna;
     --ff-Unna-b: Bold;
     --ff-Unna-i: Italic;
-    --f-sz: calc(11px + (18 - 11) * ((100vw - 400px) / (940 - 400)));
+    --f-sz: calc(11px + (18 - 11) * ((100vw - 460px) / (940 - 460)));
     --transition: all ease .5s;
 }
 

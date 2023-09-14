@@ -27,7 +27,7 @@
     --ff-Unna: Unna;
     --ff-Unna-b: Bold;
     --ff-Unna-i: Italic;
-    --f-sz: calc(11px + (18 - 11) * ((100vw - 400px) / (940 - 400)));
+    --f-sz: calc(11px + (18 - 11) * ((100vw - 460px) / (940 - 460)));
     --transition: all ease .3s;
 }
 
@@ -251,7 +251,7 @@ nav > ul li a {
 
 /******************************************************* mobile *******************************************************/
 
-@media  only screen and (max-width: 400px) {
+@media  only screen and (max-width: 460px) {
     .dark-mode {
         background: black;
         color: var(--primary-clr-1);
