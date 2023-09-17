@@ -489,7 +489,7 @@ nav > ul li a {
     color: var(--primary-clr-1);
     border-radius: 10px;
     border: none;
-    width: 50%;
+    width: 65%;
     cursor: pointer;
 }
 

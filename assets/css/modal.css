@@ -146,7 +146,7 @@
 }
 /******************************************************* mobile *******************************************************/
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 414px){
     body {
         font-family:'Merriweather', serif;
         font-size: 34px;
