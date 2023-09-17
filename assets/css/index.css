@@ -455,7 +455,7 @@ nav > ul li a {
 .main-content {
     width: 300px;
     height: 600px;
-    background: url("../images/mk.JPG") 50% 30% no-repeat fixed;
+    background: url("../images/mk.JPG") 47% 29% no-repeat fixed;
     margin: 0 auto;
     padding: 6rem;
 }
@@ -474,6 +474,7 @@ nav > ul li a {
     font-size: 18px;
     color: var(--primary-clr-1);
     padding-bottom: .5rem;
+    width: max-content;
 }
 
 .contact-btn {
@@ -482,7 +483,7 @@ nav > ul li a {
     justify-content: center;
     font-family:'Merriweather', serif;
     font-size: 14px;
-    padding: 1rem;
+    padding: 1.5rem;
     margin: 1rem;
     background: var(--accent-clr-1);
     color: var(--primary-clr-1);
