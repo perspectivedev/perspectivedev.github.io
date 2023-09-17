@@ -63,7 +63,6 @@ function toggleDarkLight(){
     console.log(body);
     const currentClass = body.className;
     body.className = currentClass == 'dark-mode' ?  'light-mode' : 'dark-mode';
-    body.className = currentClass == 'dark-mode' ? currentClass.innerText = 'dark' : 'light'; 
     console.log(body);
 }
 
