@@ -278,7 +278,7 @@ nav > ul li a {
 }
 
 /******************************************************* mobile *******************************************************/
-@media  only screen and (max-width: 460px){
+@media  only screen and (max-width: 414px){
 
     body.dark-mode {
         background-color:  var(--bg-clr-1);
@@ -453,9 +453,9 @@ nav > ul li a {
 /******************************************************* main-content *******************************************************/
 
 .main-content {
-    width: 200px;
+    width: 300px;
     height: 600px;
-    background: url("../images/mk.JPG") 49% 30% no-repeat fixed;
+    background: url("../images/mk.JPG") 50% 30% no-repeat fixed;
     margin: 0 auto;
     padding: 6rem;
 }
