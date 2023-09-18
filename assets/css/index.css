@@ -284,10 +284,7 @@ nav > ul li a {
         background-color:  var(--bg-clr-1);
         color: var(--bg-clr-2);
 
-        .index-header,
-        .project-header,
-        .resume-header,
-        .about-header {
+        .index-header {
 
             .hamburger {
                 background-color: var(--bg-clr-1);
@@ -312,10 +309,7 @@ nav > ul li a {
             background-color: var(--bg-clr-2);
             color: var(--bg-clr-1);
 
-            .index-header,
-            .project-header,
-            .resume-header,
-            .about-header {
+            .index-header {
 
                 .hamburger {
                 background-color: var(--bg-clr-2);
@@ -354,7 +348,7 @@ nav > ul li a {
     position: relative;
 }
 
-.btn-dark-mode {
+.index-body > .btn-dark-mode {
     position: absolute;
     top: 25%;
     left: 10%;
