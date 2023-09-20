@@ -310,7 +310,7 @@ padding: 0 .2rem;
 }
 
 /******************************************************* mobile *******************************************************/
-@media  only screen and (max-width: 460px) {
+@media  only screen and (max-width: 414px) {
 
     body.dark-mode {
         background-color:  var(--bg-clr-1);
@@ -372,9 +372,10 @@ padding: 0 .2rem;
     .projectImage-section {
         display: flex;
         flex-direction: column;
-        .project-img{
-            width: 80%;
-        }
+    }
+    
+    .project-img{
+        width: 80%;
     }
 
     .project-desc-1 {
